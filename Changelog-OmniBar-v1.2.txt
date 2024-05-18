@@ -1,0 +1,12 @@
+tag v1.2
+d26a8dfcb0ea54b6f2b6f6a2cd416be17a31ed51
+Jordon <jordon@localhost>
+2014-10-17 10:10:56 -0700
+
+Tagging as v1.2
+
+
+--------------------
+
+Jordon:
+	- minor bug fix
